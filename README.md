@@ -16,7 +16,3 @@ I am actively training and developing my skills in:
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![Sed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedat4ras&show_icons=true&theme=dark)
-
-Sincerely pwned.
