@@ -4,7 +4,9 @@ I am an ICTS student currently based in Australia 🇦🇺.
 
 I am passionate about cybersecurity, cloud architecture, and the intersection of AI and automation.
 
-I use this space to share my projects and document my learning journey.
+I use this space to share my projects and document my learning journey. If you have any inquiries, please don't hesitate to reach out via email.
+
+**sudo@sedataras.com**
  
  
  
