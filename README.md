@@ -28,4 +28,4 @@ I use this space to share my projects and document my learning journey. If you h
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedat4ras&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,contribs_opened_to&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedat4ras&show_icons=true&count_private=true&show=reviews,prs_merged,contribs_opened_to&theme=github_dark&hide_border=true&rank_icon=github)
