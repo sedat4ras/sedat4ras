@@ -25,3 +25,7 @@ I use this space to share my projects and document my learning journey. If you h
 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sedat4ras&theme=github-dark&hide_border=true)
