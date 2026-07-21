@@ -16,9 +16,7 @@ I use this space to share my projects and document my learning journey. If you h
 
 **🐉 Offensive Tooling (Kali Linux):** Living in Kali — using and dissecting offensive and defensive security tools to understand modern threat landscapes.
 
-**🐍 Python & Security Tooling:** Writing custom scripts to automate recon and exploitation, and modifying existing tools to fit specific lab scenarios.
-
-**☕ Java Security:** Going deep into the JVM — building security tooling such as runtime self-protection (RASP) agents and understanding how attacks look from the inside.
+**🐍 Python & Java Security Tooling:** Writing custom scripts to automate recon and exploitation, and modifying existing tools to fit specific lab scenarios.
 
 **🤖 AI in Security:** Leveraging AI to accelerate research, tooling, and analysis across my security work.
 
