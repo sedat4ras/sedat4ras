@@ -20,7 +20,7 @@ I use this space to share my projects and document my learning journey. If you h
 
 **🤖 AI in Security:** Leveraging AI to accelerate research, tooling, and analysis across my security work.
 
-> *On the side:* I occasionally build automations with **n8n** as a hobby 🔗, and I have an amateur interest in **AWS** cloud ☁️.
+> *On the side:* I occasionally build automations with **n8n** as a hobby 🔗, and I have an amateur interest in **AWS** cloud ☁️. You can have more information about me from my web page wwww.sedataras.com
 
 ---
 
