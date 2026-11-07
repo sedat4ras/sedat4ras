@@ -2,23 +2,23 @@
 
 I'm Turkish, based in Melbourne 🇦🇺. Second-year ICT Security student, and I spent years as a progress-payment specialist, mechatronics technician, and QC data analyst before circling back to code.
 
-That mixed background is my angle: I like building **security automation** shaped by a real domain and put behind a proper pipeline — not generic tooling.
+That mixed background is my angle: I'd rather build **security automation** shaped by a real domain and put behind a proper pipeline than generic tooling.
 
 I use this space to share what I'm building and how I'm learning. Reach out anytime.
 
-📫 **sudo@sedataras.com** — 🌐 [sedataras.com](https://www.sedataras.com)
+📫 **sudo@sedataras.com** · 🌐 [sedataras.com](https://www.sedataras.com)
 
 ## What I'm Focused On
 
-**🛡️ Security Automation & DevSecOps:** Building CI/CD pipelines that catch problems early — SAST, SCA, secret scanning, container hardening — and shaping them into tools other teams can pick up (see ShieldScan).
+**🛡️ Security Automation & DevSecOps:** Building CI/CD pipelines that catch problems early (SAST, SCA, secret scanning, container hardening) and shaping them into tools other teams can pick up (see ShieldScan).
 
-**🤖 AI in Security:** Adding LLM layers where they earn their keep — scanner-output triage, honeypot deception, alert summarisation. Not AI for its own sake; AI as a force multiplier for security work.
+**🤖 AI in Security:** Adding LLM layers where they earn their keep: scanner-output triage, honeypot deception, alert summarisation. I only add AI where it multiplies the security work.
 
 **🐍 Domain-Specific Tooling:** Bringing prior-life expertise into code. My progress-payment project turns Turkish construction-payment know-how into a FastAPI system that keeps a human in the loop for anything ambiguous.
 
-**☁️ Cloud Security:** AWS — running production honeypots on EC2 Spot (sentinel-vx), thinking about VPC design (secure-vpc-architecture), building on the AWS Cloud Practitioner foundation.
+**☁️ Cloud Security:** Working in AWS: running production honeypots on EC2 Spot (sentinel-vx), thinking about VPC design (secure-vpc-architecture), building on the AWS Cloud Practitioner foundation.
 
-**⚔️ Offensive Practice:** Working through HTB and CPTS. This isn't the deliverable — it's the lens. You can't defend what you don't understand how to break.
+**⚔️ Offensive Practice:** Working through HTB and CPTS. It's how I look at the defensive work, because you can't defend what you don't understand how to break.
 
 ---
 
